@@ -1,6 +1,6 @@
 # NotesApp
 
-A notes app for Android.
+A notes app for Android with persistant data storage.
 
 # App Screenshots
 ### Main Screen
